@@ -1,2 +1,8 @@
 # Project
-primeiro teste no git
+Modelando projetos:
+Banco de dados, SQL, 
+Pythom, 
+VBA,
+C, 
+HTML,
+Java.
