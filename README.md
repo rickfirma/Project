@@ -1,6 +1,6 @@
 # Project
 Modelando projetos:
-Banco de dados, SQL, 
+Banco de Dados, SQL, 
 Pythom, 
 VBA,
 Excel, 
@@ -44,5 +44,5 @@ Ideal para fins didáticos e aplicação de conceitos de BI em ambiente simulado
 ---
 
 📌 **Tecnologia Utilizada:** Power BI Desktop  
-📁 **Tipo de Dados:** Simulados e reais (projeto 1)
+📁 **Tipo de Dados:** Simulados  (projeto 1, projeto 2)
 
