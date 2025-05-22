@@ -7,9 +7,10 @@ Excel,
 BI.
 
 
-# 📈 Dashboards Power BI – Projetos Analíticos
 
-Este repositório contém dois projetos desenvolvidos no Power BI, voltados para análise de desempenho de vendas e apoio à tomada de decisões empresariais.
+# 📊 Dashboards Power BI – Projetos Analíticos
+
+Este repositório contém projetos desenvolvidos no Power BI e Excel com foco em análise de desempenho de vendas e apoio à tomada de decisões empresariais. Os relatórios foram construídos a partir de dados simulados, com o objetivo de exercitar práticas de Business Intelligence e Data Visualization.
 
 ---
 
@@ -43,6 +44,40 @@ Ideal para fins didáticos e aplicação de conceitos de BI em ambiente simulado
 
 ---
 
-📌 **Tecnologia Utilizada:** Power BI Desktop  
-📁 **Tipo de Dados:** Simulados  (projeto 1, projeto 2)
+## 🟣 Projeto 3: Treinamento Hashtag – Relatórios Excel Interativos
 
+Este projeto apresenta dashboards desenvolvidos no Excel com base em dados de vendas, cotações e desempenho por região e vendedor. 
+
+### Principais Métricas e Análises:
+
+- **Vendas totais:** R$ 200.614  
+- **Cotações realizadas:** R$ 263.374  
+- **Taxa de conversão:** 76%  
+- **Top Vendedores:** Priscila, Carlos, Letícia e Patrícia  
+- **Análise por estado:** São Paulo, Distrito Federal, Rio Grande do Sul, entre outros  
+- **Formas de pagamento utilizadas:** Cartão de crédito, boleto bancário e depósito  
+- **Distribuição por período:** dados mensais ao longo do ano  
+- **Taxa de cancelamento por estado**  
+- **Comissões por vendedor**
+
+### Objetivo Empresarial
+
+Este painel visa proporcionar uma visão estratégica e de fácil interpretação, permitindo:
+
+- Acompanhamento das metas de vendas
+- Análise de performance individual e regional
+- Apoio à tomada de decisão em ações comerciais e de marketing
+- Diagnóstico de pontos de melhoria no funil de vendas
+
+---
+
+📌 **Tecnologias Utilizadas:**  
+- Power BI Desktop  
+- Microsoft Excel (Power Query, Gráficos, Tabelas Dinâmicas)
+
+📁 **Tipo de Dados:**  
+- Simulados
+
+---
+
+Sinta-se à vontade para explorar, adaptar e sugerir melhorias. Este repositório é parte de um portfólio prático em constante evolução com foco em soluções analíticas empresariais.
